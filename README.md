@@ -1,2 +1,2 @@
-# Raytracing
-a ractracer built on python
+# Waterrays
+a raytracer built in python.
