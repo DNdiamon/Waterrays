@@ -1,0 +1,2 @@
+def frag(coord):
+    pass
